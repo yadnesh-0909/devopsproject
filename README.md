@@ -1,3 +1,4 @@
+```
 # devopsproject
 dockerise python code
 sudo -i passwd
@@ -29,3 +30,5 @@ sudo docker build -t yadnesh2710/pythonproject .
 sudo docker images
 sudo docker push yadnesh2710/pythonproject
 history -w /dev/stdout
+`````````
+
